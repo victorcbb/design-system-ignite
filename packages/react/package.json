@@ -1,6 +1,6 @@
 {
   "name": "@victor-ignite-ui/react",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,11 +14,11 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@types/react": "^18.0.23",
+    "@types/react-dom": "^18.0.7",
     "@victor-ignite-ui/eslint-config": "*",
     "@victor-ignite-ui/tokens": "*",
     "@victor-ignite-ui/ts-config": "*",
-    "@types/react": "^18.0.23",
-    "@types/react-dom": "^18.0.7",
     "react": "^18.2.0",
     "tsup": "^6.3.0",
     "typescript": "^4.8.4"
@@ -26,6 +26,8 @@
   "dependencies": {
     "@radix-ui/react-avatar": "^1.0.1",
     "@radix-ui/react-checkbox": "^1.0.1",
+    "@radix-ui/react-toast": "^1.1.1",
+    "@radix-ui/react-tooltip": "^1.0.2",
     "@stitches/react": "^1.2.8",
     "phosphor-react": "^1.4.1"
   }
