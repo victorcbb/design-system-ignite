@@ -22,7 +22,7 @@ export const TooltipTrigger = styled(Tooltip.Trigger, {
 })
 
 export const TooltipArrow = styled(Tooltip.Arrow, {
-  backgroundColor: '$gray900',
+  fill: '$gray900',
   width: '$4',
   height: '$2',
 })

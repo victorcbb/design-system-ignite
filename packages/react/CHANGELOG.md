@@ -1,5 +1,11 @@
 # @victor-ignite-ui/react
 
+## 3.2.0
+
+### Minor Changes
+
+- Fix arrow color
+
 ## 3.1.0
 
 ### Minor Changes
