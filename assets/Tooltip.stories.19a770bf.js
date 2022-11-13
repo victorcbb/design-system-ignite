@@ -1,0 +1,2 @@
+import{e as r,T as o}from"./index.21528b0b.js";import{j as t}from"./jsx-runtime.e637b013.js";import"./index.dac31f66.js";import"./iframe.35abfc6b.js";import"./index.c2db41a6.js";const p={title:"Surfaces/Tooltip",component:r,args:{title:"Agendamento realizado",description:"Quarta-feira, 23 de novembro \xE0s 16h",duration:1e4},argTypes:{children:{control:{type:null}}}},l={args:{children:t(o,{children:"Hover"})}},m=["Primary"];export{l as Primary,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Tooltip.stories.19a770bf.js.map

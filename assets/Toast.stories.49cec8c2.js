@@ -1,0 +1,2 @@
+import{d as r}from"./index.21528b0b.js";import"./index.dac31f66.js";import"./iframe.35abfc6b.js";import"./index.c2db41a6.js";import"./jsx-runtime.e637b013.js";const s={title:"Surfaces/Toast",component:r,args:{title:"Agendamento realizado",description:"Quarta-feira, 23 de novembro \xE0s 16h",duration:1e4},argTypes:{children:{control:{type:null}}}},n={},m=["Primary"];export{n as Primary,m as __namedExportsOrder,s as default};
+//# sourceMappingURL=Toast.stories.49cec8c2.js.map

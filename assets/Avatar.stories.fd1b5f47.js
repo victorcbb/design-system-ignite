@@ -1,0 +1,2 @@
+import{A as t}from"./index.21528b0b.js";import"./index.dac31f66.js";import"./iframe.35abfc6b.js";import"./index.c2db41a6.js";import"./jsx-runtime.e637b013.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/victorcbb.png",alt:"Imagem do perfil do usu\xE1rio"},argTypes:{src:{control:{type:"text"}}}},p={},m={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,m as WithFallback,e as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.fd1b5f47.js.map
