@@ -20,3 +20,9 @@ export const TooltipTrigger = styled(Tooltip.Trigger, {
   padding: '$3 $4',
   borderRadius: '$sm',
 })
+
+export const TooltipArrow = styled(Tooltip.Trigger, {
+  backgroundColor: '$gray900',
+  width: '$4',
+  height: '$2',
+})
