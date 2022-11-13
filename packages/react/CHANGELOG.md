@@ -1,5 +1,11 @@
 # @victor-ignite-ui/react
 
+## 3.1.0
+
+### Minor Changes
+
+- Fix arrow tooltip
+
 ## 3.0.0
 
 ### Major Changes
